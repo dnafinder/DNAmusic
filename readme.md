@@ -1,6 +1,6 @@
 # DNAmusic
 
-[![Open in MATLAB Online](https://matlab.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=dnafinder/DNAmusic)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=dnafinder/DNAmusic)
 
 - DNAmusic1.m
 - DNAmusic2.m
