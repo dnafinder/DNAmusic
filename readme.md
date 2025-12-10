@@ -1,6 +1,11 @@
 # DNAmusic
 
-[![Open DNAmusic1 in MATLAB Online](https://matlab.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=dnafinder/DNAmusic)
+[![Open in MATLAB Online](https://matlab.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=dnafinder/DNAmusic)
+
+- DNAmusic1.m
+- DNAmusic2.m
+- DNAmusic3.m
+
 ## 🎼 Overview
 DNAmusic is a small MATLAB collection for DNA/protein sonification (audification). It includes three routines that implement three published approaches to translate biological sequences into musical structures. Each function retrieves an mRNA record from NCBI (or uses a local GenBank file if available), extracts the CDS and protein translation, and produces audio output.
 
